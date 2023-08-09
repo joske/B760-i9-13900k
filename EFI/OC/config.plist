@@ -881,7 +881,7 @@
 				<key>rtc-blacklist</key>
 				<data></data>
 				<key>revcpu</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>revcpuname</key>
 				<string>i9-13900K</string>
 			</dict>
@@ -965,7 +965,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>3841</integer>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
