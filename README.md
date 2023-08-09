@@ -1,6 +1,6 @@
 # B760-i9-13900k
 
-OpenCore config for my Raptor Lake desktop containing:
+OpenCore config for Raptor Lake desktop containing:
 
 - ASUS prime B760-PLUS
 - i9 13900k with Be Quiet pure loop 360 mm AIO
@@ -18,8 +18,8 @@ Working:
 
 - the machine boots, and show both displays
 - accelerated graphics with native AMD driver
-- sound works with alcid 11 (jack, USB audio, HDMI/DP audio).
-- on board ethernet (intel) works
+- sound works with alcid 11 (jack, USB audio, HDMI/DP audio)
+- on board ethernet (RTL 8125) works with LucyRTL8125Ethernet.kext
 - all USB ports work
 - appletv+ playback with shikigva=128
 - sleep/resume with following pmset options:
@@ -49,4 +49,6 @@ Currently in use:
 ```
 
 What doesn't work:
-nothing (well, I don't know about apple services like handover and stuff as I don't use those. I guess it works).
+- nothing as far as I know.
+
+I don't know about apple services like handover and stuff as I don't use those. I guess it works.
