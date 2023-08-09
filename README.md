@@ -6,7 +6,7 @@ OpenCore config for my Raptor Lake desktop containing:
 - i9 13900k with Be Quiet pure loop 360 mm AIO
 - be quiet! Pure Power 11 500W
 - AMD Radeon rx 460
-- Samsung 990 pro M.2 NVMe drive (Arch Linux)
+- Samsung 990 pro M.2 NVMe 2TB (Arch Linux)
 - Samsung 850 EVO SATA 500 GB (GhostBSD + Ubuntu)
 - Samsung 850 EVO SATA 250 GB (macOS Ventura)
 - Kingston SATA 128 GB (win 10)
