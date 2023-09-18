@@ -4,7 +4,7 @@ OpenCore config for Raptor Lake desktop containing:
 
 - ASUS prime B760-PLUS
 - i9 13900k with Be Quiet pure loop 360 mm AIO
-- be quiet! Pure Power 11 500W
+- be quiet! Pure Power 12 850W PSU
 - AMD Radeon RX 580
 - Samsung 990 pro M.2 NVMe 2TB (Arch Linux)
 - Samsung 980 pro M.2 NVMe 500GB (macOS Ventura)
