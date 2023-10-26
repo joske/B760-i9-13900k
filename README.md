@@ -7,7 +7,7 @@ OpenCore config for Raptor Lake desktop containing:
 - be quiet! Pure Power 12 850W PSU
 - AMD Radeon RX 580
 - Samsung 990 pro M.2 NVMe 2TB (Arch Linux)
-- Samsung 980 pro M.2 NVMe 500GB (macOS Ventura)
+- WD Black SN850X M.2 NVMe 1TB (macOS Ventura)
 - Samsung 850 EVO SATA 500 GB (GhostBSD)
 - Kingston SATA 128 GB (win 10)
 - 32 GB corsair DDR5-5600 RAM
