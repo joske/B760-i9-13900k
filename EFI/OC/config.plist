@@ -685,7 +685,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 -ctrsmt agdpmod=pikera shikigva=128 sping_wait_for_gpu=1</string>
+				<string>keepsyms=1 -ctrsmt agdpmod=pikera shikigva=128</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
