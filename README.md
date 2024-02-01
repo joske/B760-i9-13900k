@@ -2,6 +2,8 @@
 
 OpenCore config for Raptor Lake desktop
 
+OpenCore version: 0.9.7
+
 ## Hardware
 
 - ASUS prime B760-PLUS
@@ -20,6 +22,8 @@ All OSes boot via GRUB2
 
 ## BIOS settings
 
+BIOS version: 1604 (2023/12/28)
+
 - AI Tweaker -> AI Overclock Tuner -> XMP I
 - AI Tweaker -> Performance Core Ratio -> Sync All Cores
 - AI Tweaker -> Efficient Core Ratio -> Sync All Cores
@@ -35,6 +39,24 @@ All OSes boot via GRUB2
 - Boot -> CSM disabled
 - Boot -> Secure boot other OS, custom
 - Boot -> Boot Configuration -> Fast Boot disabled
+
+## Kexts
+
+- AppleALC.kext
+- CPUFriend.kext
+- CPUFriendDataProvider.kext
+- CpuTopologyRebuild.kext
+- CpuTscSync.kext
+- Lilu.kext
+- LucyRTL8125Ethernet.kext
+- NVMeFix.kext
+- RestrictEvents.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
+- USBToolBox.kext
+- UTBMap.kext
+- VirtualSMC.kext
+- WhateverGreen.kext
 
 ## Working
 
