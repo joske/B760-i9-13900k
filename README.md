@@ -24,7 +24,7 @@ All OSes boot via GRUB2
 
 BIOS version: 1604 (2023/12/28)
 
-- AI Tweaker -> AI Overclock Tuner -> XMP I
+- AI Tweaker -> AI Overclock Tuner -> XMP II
 - AI Tweaker -> Performance Core Ratio -> Sync All Cores
 - AI Tweaker -> Efficient Core Ratio -> Sync All Cores
 - Advanced -> SA -> VT-D enabled
