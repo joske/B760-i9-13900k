@@ -2,7 +2,7 @@
 
 OpenCore config for Raptor Lake desktop
 
-OpenCore version: 0.9.7
+OpenCore version: 0.9.8
 
 ## Hardware
 
@@ -24,9 +24,6 @@ All OSes boot via GRUB2
 
 BIOS version: 1604 (2023/12/28)
 
-- AI Tweaker -> AI Overclock Tuner -> XMP II
-- AI Tweaker -> Performance Core Ratio -> Sync All Cores
-- AI Tweaker -> Efficient Core Ratio -> Sync All Cores
 - Advanced -> SA -> VT-D enabled
 - Advanced -> SA -> IOMMU enable during boot
 - Advanced -> SA -> Memory Configuration -> Memory Remap enabled
@@ -35,7 +32,7 @@ BIOS version: 1604 (2023/12/28)
 - Advanced -> PCI -> Above 4G decoding enabled
 - Advanced -> PCI -> Resize BAR disabled
 - Advanced -> USB -> XHCI Handoff enabled
-- Advanced -> Onboard Devices -> Serial Port disabled
+- Advanced -> Onboard Devices -> Serial Port enabled
 - Boot -> CSM disabled
 - Boot -> Secure boot other OS, custom
 - Boot -> Boot Configuration -> Fast Boot disabled
