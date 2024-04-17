@@ -22,7 +22,7 @@ All OSes boot via GRUB2
 
 ## BIOS settings
 
-BIOS version: 1604 (2023/12/28)
+BIOS version: 1646 (2024/3/27)
 
 - Advanced -> SA -> VT-D enabled
 - Advanced -> SA -> IOMMU enable during boot
