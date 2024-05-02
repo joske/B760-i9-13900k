@@ -92,4 +92,4 @@ Currently in use:
 
 - nothing as far as I know.
 
-I don't know about apple services like handover and stuff as I don't use those. I guess it works.
+I don't know about apple services like handover and stuff as I don't use those. As far as I know, these require WiFi and this machine doesn't have/need WiFi.
