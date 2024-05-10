@@ -2,7 +2,7 @@
 
 OpenCore config for Raptor Lake desktop
 
-OpenCore version: 0.9.9
+OpenCore version: 1.0.0
 
 ## Hardware
 
@@ -24,6 +24,7 @@ All OSes boot via GRUB2
 
 BIOS version: 1646 (2024/3/27)
 
+- AI Tweaker -> AI Overclock Tuner -> XMP II
 - Advanced -> SA -> VT-D enabled
 - Advanced -> SA -> IOMMU enable during boot
 - Advanced -> SA -> Memory Configuration -> Memory Remap enabled
