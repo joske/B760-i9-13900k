@@ -7,7 +7,7 @@ OpenCore version: 1.0.0
 ## Hardware
 
 - ASUS prime B760-PLUS
-- i9 13900k with Be Quiet pure loop 360 mm AIO
+- i9 13900k with Noctua NH-D15 (this cooled better and much more quiet than the Be Quiet pure loop AIO)
 - be quiet! Pure Power 12 850W PSU
 - AMD Radeon RX 580
 - Samsung 990 pro M.2 NVMe 2TB (Arch Linux)
