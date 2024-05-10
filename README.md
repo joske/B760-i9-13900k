@@ -22,7 +22,7 @@ All OSes boot via GRUB2
 
 ## BIOS settings
 
-BIOS version: 1646 (2024/3/27)
+BIOS version: 1656 (2024/4/19)
 
 - AI Tweaker -> AI Overclock Tuner -> XMP II
 - Advanced -> SA -> VT-D enabled
