@@ -2,7 +2,7 @@
 
 OpenCore config for Raptor Lake desktop
 
-OpenCore version: 1.0.0
+OpenCore version: 1.0.1
 
 ## Hardware
 
