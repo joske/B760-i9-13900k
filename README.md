@@ -11,8 +11,8 @@ OpenCore version: 1.0.1
 - be quiet! Pure Power 12 850W PSU
 - AMD Radeon RX 580
 - Samsung 990 pro M.2 NVMe 2TB (Arch Linux)
-- WD Black SN850X M.2 NVMe 1TB (macOS Sonoma)
-- Samsung 850 EVO SATA 500 GB (FreeBSD)
+- WD Black SN850X M.2 NVMe 1TB (macOS Sequoia)
+- Samsung 850 EVO SATA 500 GB (GhostBSD)
 - Kingston SATA 128 GB (win 10)
 - 32 GB corsair DDR5-5600 RAM
 - ASUS DRW-24D5MT
@@ -22,7 +22,7 @@ All OSes boot via GRUB2
 
 ## BIOS settings
 
-BIOS version: 1656 (2024/4/19)
+BIOS version: 1810 (2025/1/16)
 
 - AI Tweaker -> AI Overclock Tuner -> XMP II
 - Advanced -> SA -> VT-D enabled
