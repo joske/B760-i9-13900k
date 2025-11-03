@@ -13,12 +13,12 @@ OpenCore version: 1.0.5
 - Samsung 990 pro M.2 NVMe 2TB (Arch Linux)
 - WD Black SN850X M.2 NVMe 1TB (macOS Sequoia)
 - Samsung 850 EVO SATA 500 GB (GhostBSD)
-- Kingston SATA 128 GB (win 10)
-- 32 GB corsair DDR5-5600 RAM
+- Kingston SATA 128 GB (tiny 11)
+- 64 GB corsair DDR5-5600 RAM
 - ASUS DRW-24D5MT
 - be quiet! PURE BASE 600 case
 
-All OSes boot via GRUB2
+All OSes boot via GRUB
 
 ## BIOS settings
 
