@@ -1,8 +1,8 @@
 # B760-i9-13900k
 
-OpenCore config for Raptor Lake desktop
+OpenCore config for Raptor Lake desktop (Sequoia - Tahoe gives too many problems)
 
-OpenCore version: 1.0.5
+OpenCore version: 1.0.6
 
 ## Hardware
 
